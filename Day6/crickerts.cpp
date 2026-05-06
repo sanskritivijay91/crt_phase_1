@@ -14,7 +14,7 @@ class cricketers{
         this->avg = avg;
 
     }
-
+         
 
 void show(){
     cout << "Name:" << name << endl;
