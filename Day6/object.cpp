@@ -17,4 +17,3 @@ class student {
     s1.display();
     return 0;
   }
-  
