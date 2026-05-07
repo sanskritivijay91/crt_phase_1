@@ -2,7 +2,7 @@
 using namespace std;
    // Grandparent class (base class of cricketer class)
 class player{
-    public:
+    public:  
     string name;
     int age;
 
