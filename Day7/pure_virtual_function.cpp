@@ -12,7 +12,7 @@ class Player {
       cout << "Cricketers class show function" << endl;
     }
   };  
-   
+    
   int main(){  
      cricketers c1;
      c1.show();
