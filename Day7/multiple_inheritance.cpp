@@ -9,7 +9,7 @@ using namespace std;
     void setname (string n ){
         name = n;
     }
-};
+};    
      // parent 2
 class cricketers{
     public:
