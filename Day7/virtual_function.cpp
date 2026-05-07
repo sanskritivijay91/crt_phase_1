@@ -19,4 +19,4 @@ class Player {
      cricketers c1;
      c1.show();
      return 0;
-}
+} 
