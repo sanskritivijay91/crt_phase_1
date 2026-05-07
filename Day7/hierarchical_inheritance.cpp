@@ -41,7 +41,7 @@ int main(){
      c1.setruns(1200);
     c1.show();   
 
-    Footballer f1;
+    Footballer f1; 
     f1.setname("sunil");
     f1.setgoals(110);
     f1.show();
