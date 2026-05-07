@@ -37,7 +37,7 @@ name = n;
         d1.seteats(e);   
         d1.show();
 
-        string p;
+        string p;  
         cin >> p;
         cat c1;
         c1.setname("tom");
