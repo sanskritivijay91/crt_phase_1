@@ -6,7 +6,7 @@ using namespace std;
      int j = n-1;  
 
      while (i<j){
-        int temp = nums[i];
+        int temp = nums[i];   
         nums[i]= nums[j];  
         nums[j]= temp;
         i++;
@@ -26,5 +26,5 @@ int main()
     
     ReverseArray(arr,size);   
     return 0;
-
+  
 }
