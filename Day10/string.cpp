@@ -27,7 +27,7 @@ int main()
     str2.push_back('v');
     cout << "After psuh-back method:" << str2 << endl;
 
-    // pop-back
+    // pop-back   
     str2.pop_back( );
     cout << "After pop_back method: "<< str2 << endl;
 
