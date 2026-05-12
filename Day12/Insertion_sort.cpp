@@ -4,7 +4,7 @@ using namespace std;
     int temp = a;
     a = b;
     b = temp;
-}
+} 
 
 void Insertion_sort(int nums[], int n )
 {
