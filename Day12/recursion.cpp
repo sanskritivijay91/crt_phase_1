@@ -2,7 +2,7 @@
 using namespace std;
 
 long factorial ( int n){
-    if ( n==1 )
+    if ( n==1)
     {
         return 1;
     }
