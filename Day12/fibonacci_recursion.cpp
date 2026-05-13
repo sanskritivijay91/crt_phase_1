@@ -8,7 +8,6 @@ long Fib (int n){
      
 }
 
-
 int main()
 {
     int n;
