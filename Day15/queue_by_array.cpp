@@ -3,7 +3,7 @@ using namespace std;
 
 class Queue
 {
-    private:
+    private:  
     int arr[100];
     int front , rear;
 
