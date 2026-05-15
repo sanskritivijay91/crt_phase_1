@@ -8,7 +8,7 @@ struct Node {
 
 class Queue {
     private:
-    Node* front;
+    Node* front; 
     Node *rear;
 
     public:
